@@ -1,2 +1,4 @@
 echo "A"
 print("hello world")
+
+"nice"
