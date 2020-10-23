@@ -1,1 +1,2 @@
 echo "A"
+print("hello world")
